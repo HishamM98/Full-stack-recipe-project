@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = ./
+	url = "https://github.com/HishamM98/backend"
 [submodule "recipe-sharing"]
 	path = recipe-sharing
-	url = ./
+	url = "https://github.com/HishamM98/recipe-sharing"
