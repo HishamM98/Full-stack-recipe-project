@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = ./
+[submodule "recipe-sharing"]
+	path = recipe-sharing
+	url = ./
